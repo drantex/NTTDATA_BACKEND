@@ -17,9 +17,7 @@ ciudadanía) y P (Pasaporte).
 - Indispensable usar Spring y Maven.
 - Son entregables el JAR de la aplicación y el código fuente.
 ### PUNTOS RELEVANTES:
-✓ Los datos de respuesta son mockeados, es decir solo se retornara información para el
-cliente identificado con Cedula de ciudadanía 23445322.
-✓ Son valores agregados pero no obligatorios manejo de log de la aplicación, pruebas
-unitarias y calidad de código.
+✓ Los datos de respuesta son mockeados, es decir solo se retornara información para el cliente identificado con Cedula de ciudadanía 23445322.
+✓ Son valores agregados pero no obligatorios manejo de log de la aplicación, pruebas unitarias y calidad de código.
 ✓ Puede utilizar el Ide de desarrollo que se sienta más cómodo.
 ✓ Se tendrá una sesión de 15 a 30 minutos para sustentar la prueba técnica
